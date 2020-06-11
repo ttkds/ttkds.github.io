@@ -62,8 +62,3 @@ CCTV-17,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 凤凰卫视HD,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 凤凰咨询HD,http://112.5.223.10:80/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8?icpid=88888888&from=99&ocs=2_112.5.223.46_80&popid=99&hms_devid=83&prioritypopid=99
-东森新闻台,http://111.13.111.192/211.75.9.37:20000/20005#http://111.13.111.192/211.75.9.37:20060/20066
-壹電視新聞,p2p://fccsovh.pvbox.live:18912/5b14094000088a466e47d3afd44bb2c1.ts
-年代新聞,p2p://fccsovh.pvbox.live:18912/5c2dd76000032856cc77709577dc1ebc.ts
-東森新聞,p2p://fccsovh.pvbox.live:18912/5c2dd7310008b319c22d543273ae752d.ts
-中天新聞,p2p://fccsovh.pvbox.live:18912/5c2dd72e0002527b767acda
